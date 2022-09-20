@@ -52,7 +52,7 @@ button:hover {
 
 .home {
     flex: 1;
-    background-image: url(./img/home.jpg);
+    background-image: url(/img/home.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
