@@ -3,7 +3,7 @@ import { content, createHtmlElement } from './index';
 const starters = [
     {
         itemName:'TUNA CRUDO',
-        description:'maitake mushroom. chili oil.,
+        description:'maitake mushroom. chili oil.',
         price: '24',
     },
     {
