@@ -82,7 +82,7 @@ button:hover {
 
 .menu {
     flex: 1;
-    background-image: url(./img/menu.jpg);
+    background-image: url(/img/menu.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -113,7 +113,7 @@ button:hover {
 
 .contact {
     flex: 1;
-    background-image: url(./img/contact.jpg);
+    background-image: url(/img/contact.jpg);
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.6); 
     display: flex;
