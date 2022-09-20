@@ -30,12 +30,12 @@ const starters = [
 
 const mains = [
     {
-        itemName:'ORRECHIETTE',
+        itemName:'ORECCHIETTE',
         description:'broccoli rabe. sausage. cannelini beans.',
         price: '28',
     },
     {
-        itemName:'BEET FETTUCINE',
+        itemName:'BEET FETTUCCINE',
         description:'lamb. parmesean. mint.',
         price: '32',
     },
@@ -75,6 +75,7 @@ const desserts = [
     {
         itemName:'ANGEL CAKE',
         description:'strawberry. whipped cream.'
+        price: '14',
     },
 ];
 
