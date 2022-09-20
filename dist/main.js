@@ -1,0 +1,2 @@
+alert("this is just a test");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsIm1hcHBpbmdzIjoiQUFBQUEsTUFBTSIsInNvdXJjZXMiOlsid2VicGFjazovL3Jlc3RhdXJhbnQvLi9zcmMvaW5kZXguanMiXSwic291cmNlc0NvbnRlbnQiOlsiYWxlcnQoJ3RoaXMgaXMganVzdCBhIHRlc3QnKSJdLCJuYW1lcyI6WyJhbGVydCJdLCJzb3VyY2VSb290IjoiIn0=
