@@ -115,7 +115,7 @@ export const renderMenu = () => {
         divMain.appendChild(htmlItem);
     });
 
-    const mainsSection = createMenuSection('Main dishes');
+    const mainsSection = createMenuSection('Mains');
     divMain.appendChild(mainsSection);
     mains.forEach(item => {
         const htmlItem = createMenuItem(`${item.itemName}`, `${item.description}`, `${item.price}`);
