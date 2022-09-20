@@ -74,7 +74,7 @@ const desserts = [
     },
     {
         itemName:'ANGEL CAKE',
-        description:'strawberry. whipped cream.'
+        description:'strawberry. whipped cream.',
         price: '14',
     },
 ];
