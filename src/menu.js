@@ -129,7 +129,7 @@ export const renderMenu = () => {
         divMain.appendChild(htmlItem);
     });
    
-    const footer = createHtmlElement('p', 'footer', 'Osteria at the waterfront is a part of Spencer group');
+    const footer = createHtmlElement('p', 'footer', 'Tony O\'s is a part of TPG - The Pepperoni Group');
     divMain.appendChild(footer);
 };
 
